@@ -36,13 +36,15 @@ Minimum Temperature by Day on Earth:
 
 ![Line plot of Minimum Temperature by Day on Earth](Images/min_temp.png)
 
-## Acknowledgments
-
-Thanks to Geronimo Perez for feedback and assistance
+## References
 
 The most recent Curiosity rover weather data can be accessed at [Mars Weather | Curiosity](https://mars.nasa.gov/msl/weather/)
 
 The [Mars News website](https://static.bc-edx.com/data/web/mars_news/index.html) is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://mars.nasa.gov/) website in November 2022. Images are used according to the [JPL Image Use Policy](https://www.jpl.nasa.gov/jpl-image-use-policy), courtesy NASA/JPL-Caltech.
+
+## Acknowledgments
+
+Thanks to Geronimo Perez for feedback and assistance
 
 ## Author
 
