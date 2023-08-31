@@ -16,11 +16,13 @@ You can view the results in `part_1_mars_news.ipynb` and `part_2_mars_weather.ip
 
 ## Gallery of Results:
 
-Deliverable 1:
+### Deliverable 1:
 
 Mars news articles:
 
 ![Image of Mars news article titles and preview text](Images/mars_news_output.png)
+
+### Deliverable 2:
 
 Bar plot of Average Martian Minimum Temperatures by Month:
 
